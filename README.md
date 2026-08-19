@@ -1,3 +1,1 @@
-# cocina-caotica
-
-Equipo: Paredes
+   Equipo: Paredes, Peña
