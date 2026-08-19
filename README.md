@@ -1,3 +1,3 @@
 # cocina-caotica
 
-Equipo: Felipe, Eduardo
+Equipo: Peña 
