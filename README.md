@@ -1,3 +1,2 @@
 # cocina-caotica
-
 Equipo: Peña 
