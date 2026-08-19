@@ -1,1 +1,2 @@
 # cocina-caotica
+Equipo: Felipe
