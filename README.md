@@ -1,0 +1,3 @@
+# cocina-caotica
+
+Equipo: Eduardo
